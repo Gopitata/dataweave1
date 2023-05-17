@@ -1,0 +1,18 @@
+[
+{
+"CUSTOMER_ID": 1,
+"CUSTOMER_NAME": "TEST11",
+"ADDRESS1": "Flat 101",
+"ADDRESS2": "Viman Nagar 1",
+"POSTALCODE": "201018",
+"CITY": "PUNE"
+},
+{
+"CUSTOMER_ID": 2,
+"CUSTOMER_NAME": "TEST12",
+"ADDRESS1": "Flat 102",
+"ADDRESS2": "Viman Nagar 2",
+"POSTALCODE": "201018",
+"CITY": "PUNE"
+}
+]
