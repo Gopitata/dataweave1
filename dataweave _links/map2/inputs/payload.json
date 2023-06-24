@@ -1,0 +1,14 @@
+[
+    {
+        "empname": "Maria",
+        "empdepartment":"HR"
+    },
+    {
+        "empname": "james",
+        "empdepartment":"engeneering"
+    },
+    {
+        "empname": "tom",
+        "empdepartment":"doctor"
+    }
+]
