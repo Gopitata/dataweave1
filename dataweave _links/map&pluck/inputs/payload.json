@@ -1,0 +1,28 @@
+{
+  "record": {
+    "person": {
+      "name": {
+        "firstname": "Sachin",
+        "lastname": "tendulkar",
+        "aliases": {
+          "alias": "Sachinten",
+          "alias": "SachinT",
+          "alias": "ST"
+        }
+      }
+    }
+  },
+  "record": {
+    "person": {
+      "name": {
+        "firstname": "mahendra",
+        "lastname": "Singh",
+        "aliases": {
+          "alias": "Mahi",
+          "alias": "Dhoni",
+          "alias": "MD"
+        }
+      }
+    }
+  }
+}
